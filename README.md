@@ -1,6 +1,6 @@
 # 🍽️ Foodmandu UI/UX Design – Mobile Figma Project
 
-[🔗 View Live Prototype](https://www.figma.com/proto/Lum5z4H9xLPjVP0aKDWND0/Foodmandu?node-id=17-97&p=f&t=CaIc9s0gAnVfcl6w-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
+[🔗 View Live Prototype](https://www.figma.com/proto/Lum5z4H9xLPjVP0aKDWND0?node-id=0-1)
 
 ---
 
@@ -23,20 +23,17 @@
 
 ## 🖼️ Screenshots
 
+### 🔥 login Page 
+![login Page](https://i.imgur.com/Zz73gB8.png)
+
 ### 🔥 Home Page  
-![Home Page](https://i.imgur.com/FoodmanduHome.png)
+![Home Page](https://i.imgur.com/4fqAlXK.png)
 
-### 🥦 Veg Food Section  
-![Veg Food](https://i.imgur.com/FoodmanduVeg.png)
+### Cart Section  
+![Cart secr=tion](https://i.imgur.com/lEdLO1Q.png)
 
-### 🍹 Drinks Section  
-![Drinks](https://i.imgur.com/FoodmanduDrinks.png)
-
-### 🍰 Dessert Section  
-![Dessert](https://i.imgur.com/FoodmanduDesserts.png)
-
-### 🚚 Delivery Section  
-![Delivery](https://i.imgur.com/FoodmanduDelivery.png)
+### 🚚 profile Section  
+![profile]()
 
 > *(Note: Replace these Imgur links with your actual screenshot URLs)*
 
@@ -57,7 +54,4 @@ Crafted with passion to enhance mobile food delivery experiences.
 
 ---
 
-[➡️ View Prototype on Figma](https://www.figma.com/proto/Lum5z4H9xLPjVP0aKDWND0/Foodmandu?node-id=17-97&p=f&t=CaIc9s0gAnVfcl6w-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
-
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Lum5z4H9xLPjVP0aKDWND0/Foodmandu?node-id=4-17&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&embed-host=share" allowfullscreen></iframe>
+[➡️ View Prototype on Figma](https://www.figma.com/proto/Lum5z4H9xLPjVP0aKDWND0?node-id=0-1)
